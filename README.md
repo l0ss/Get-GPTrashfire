@@ -1,4 +1,4 @@
-# Get-GPTrashFire
+# Get-GPTrashFire - broken markdown edition
 
 Identifying and Abusing Vulnerable Configurations in MS AD Group Policy
 
